@@ -11,3 +11,4 @@ finishers, all-rounders, specialist fast bowlers) and ultimately choose the top 
 
 
 • Selected team using the Power BI dashboard has higher of chances to win the game.
+<img width="607" alt="image" src="https://user-images.githubusercontent.com/110285559/234000649-b48970ec-71c0-49ca-9abb-4ccd765f98cc.png">
